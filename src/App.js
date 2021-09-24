@@ -4,7 +4,7 @@ import './App.css';
 
 
 function App() {
-  const hStyle = { color: 'blue' };
+  const hStyle = { color: 'orange' };
   return (
     <div className="App">
       <header className="App-header">
